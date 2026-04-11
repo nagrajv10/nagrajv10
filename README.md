@@ -93,48 +93,6 @@
 - Semantic matching via Sentence-BERT embeddings + skill overlap scoring
 - Explainable matching scores delivered via recruiter-facing dashboard
 
----
-
-### ⚡ [Customer Payment Default Prediction — EEDC Nigeria](https://github.com/yourusername/eedc-default-prediction)
-> ML pipeline predicting utility bill payment defaults for postpaid customers
-
-`Python` `Scikit-learn` `LightGBM` `Pandas`
-
-- **~88% accuracy** with LightGBM ensemble on transactional & demographic features
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nagraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| Fundamentals of Deep Learning | NVIDIA |
-| Complete Data Science, ML, DL & NLP Bootcamp | Udemy |
-| Data Visualization using Paraview & Tableau | Certificate |
-| Introduction to Data Science | Coursera |
-
----
-
-## 📄 Publications & Achievements
-
-- 📰 **Smart Farming using AI & IoT** — SSRN Journal | 1,800+ views · 615+ downloads
-- 🏆 **Avishkar Research Convention 2020–21** — Qualified for Final Round, University of Mumbai
-
----
 
 ## 📬 Let's Connect
 
@@ -151,7 +109,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=nagrajv10&color=blue&style=for-the-badge)
 
 *"Turning data into decisions, one model at a time."*
 
