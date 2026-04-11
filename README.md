@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;NLP+%7C+Deep+Learning+%7C+MLOps;Building+production-grade+AI+systems;Available+from+June+2026+%F0%9F%87%AE%F0%9F%87%B3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;NLP+%7C+Deep+Learning+%7C+MLOps;Building+production-grade+AI+systems+%F0%9F%87%AE%F0%9F%87%B3)
 
 </div>
 
@@ -10,10 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **MS in Engineering Data Science** — University of Houston, TX (GPA: 3.6 | Graduating May 2026)
+- 🎓 **MS in Engineering Data Science** — University of Houston, TX (Graduating May 2026)
 - 💼 **2+ years** building production-grade ML & analytics systems in energy and tech domains
 - 🤖 Passionate about **NLP, Deep Learning, MLOps** and end-to-end AI deployment
-- 🌏 Based in **Mumbai, India** — Available from **June 2026 | No Notice Period**
 - 📝 Published researcher — *Smart Farming using AI & IoT* (1,800+ views on SSRN)
 - 🔭 Currently working on: **AI-powered real estate prediction & ATS platforms**
 
