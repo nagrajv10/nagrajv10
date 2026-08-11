@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;ML+Engineer;+%7C+NLP+%7C+Deep+Learning;Building+production-grade+AI+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;+%7C+ML+Engineer+%7C+NLP+%7C+Deep+Learning;Building+production-grade+AI+systems)
 
 </div>
 
