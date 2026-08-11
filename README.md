@@ -63,7 +63,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 [AI-Powered Real Estate Investment Predictor](https://github.com/yourusername/real-estate-predictor)
+### 🏠 [AI-Powered Real Estate Investment Predictor](https://github.com/nagrajv10/DubaiPropAI)
 > Predicts Dubai real estate prices, rental yield & 5-year ROI using XGBoost/CatBoost
 
 `Python` `FastAPI` `XGBoost` `CatBoost` `PostgreSQL` `Docker` `React`
@@ -73,7 +73,7 @@
 
 ---
 
-### 🏥 [NER for Clinical Literature](https://github.com/yourusername/clinical-ner)
+### 🏥 [NER for Clinical Literature](https://github.com/nagrajv10/NER-for-Extracting-Diseases-and-Chemicals-from-Clinical-Literature)
 > Named Entity Recognition extracting diseases & chemicals from biomedical text
 
 `BioBERT` `DeBERTa-v3` `BiLSTM-CRF` `FastText` `BioWordVec`
@@ -83,7 +83,7 @@
 
 ---
 
-### 🤖 [SmartHire AI — ATS Platform](https://github.com/yourusername/smarthire-ai)
+### 🤖 [SmartHire AI — ATS Platform](https://github.com/nagrajv10/SmartHireAi)
 > End-to-end Applicant Tracking System with semantic candidate-job matching
 
 `Python` `FastAPI` `Sentence-BERT` `ElasticSearch` `PostgreSQL` `Redis` `Docker` `React`
