@@ -13,7 +13,7 @@
 - 🎓 **MS in Engineering Data Science** — University of Houston, TX 
 - 💼 **2+ years** building production-grade ML & analytics systems in energy and tech domains
 - 🤖 Passionate about **NLP, Deep Learning, MLOps** and end-to-end AI deployment
-- 🔭 Currently working on: **AI-powered real estate prediction & ATS platform**
+- 🔭 Currently working on: **ClarifySQL**
 
 ---
 
